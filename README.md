@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karolina</h1>
-<h3 align="center">A cybersecurity student from Poland 🇵🇱</h3>
+# Hi 👋, I'm Karolina
+### A cybersecurity student from Poland 🇵🇱
 
 ## 📚 Learning
 - 🌱 I’m currently learning Python
