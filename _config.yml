@@ -1,3 +1,4 @@
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
+theme: minimal-mistakes-jekyll
 title: Karolina's homepage
 description: Hi I'm Karolina!
